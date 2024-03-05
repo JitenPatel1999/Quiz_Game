@@ -1,0 +1,1 @@
+Data.py contains the questions and answers used for this program. Question_model.py is the file I used to create the question object in main.py. Quiz_brain.py is the file that creates an object for the game itself.
